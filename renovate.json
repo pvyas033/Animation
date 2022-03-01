@@ -3,7 +3,6 @@
      "config:base"
     ],
     "major": {
-      "dependencyDashboardApproval": true,
       "automerge": true
     },
    "timezone":"Asia/Kolkata"
