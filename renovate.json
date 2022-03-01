@@ -2,9 +2,9 @@
   "extends": [
      "config:base"
     ],
-    "major": [
+    "major": {
       "dependencyDashboardApproval": true,
       "automerge": true
-    ],
-  "timezone":"Asia/Kolkata"
+    },
+   "timezone":"Asia/Kolkata"
 }
