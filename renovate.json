@@ -3,6 +3,7 @@
      "config:base"
     ],
     "major": {
-    "dependencyDashboardApproval": true
+      "dependencyDashboardApproval": true,
+      "automerge": true
     }
 }
