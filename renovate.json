@@ -1,9 +1,5 @@
 {
-  "extends": [
-     "config:base"
-    ],
-    "major": {
-      "automerge": true
-    },
+  "extends": ["config:base"],
+   "automerge": true,
    "timezone":"Asia/Kolkata"
 }
