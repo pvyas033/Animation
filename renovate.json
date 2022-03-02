@@ -3,6 +3,6 @@
   "automerge": true,
   "timezone":"Asia/Kolkata",
   "schedule": [
-    "after 11am everyweekday"
+    "after 1minute"
   ]
 }
