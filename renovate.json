@@ -1,7 +1,7 @@
 {
   "extends": ["config:base"],
   "automerge": true,
-  "timezone":"Asia/Kolkata"
+  "timezone":"Asia/Kolkata",
   "schedule": [
     "after 11am everyweekday"
   ]
